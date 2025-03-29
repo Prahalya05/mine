@@ -1,13 +1,10 @@
 body {
     font-family: 'Arial', sans-serif;
-    
-    background:(to right, #fdfbfb, #ebedee);
     text-align: center;
     padding: 2rem;
     color: #080707;
     min-height: 800px;
 }
-
 .parallax {
     position: fixed;
     top: 0;
@@ -18,9 +15,6 @@ body {
     z-index: -1;
     opacity: 0.3;
 }
-
-
-
 .container {
     max-width: 600px;
     margin: auto;
@@ -43,11 +37,9 @@ button {
 button:hover {
     background: #ccbbdc;
 }
-
 nav {
     margin-top: 30px;
 }
-
 nav a {
     margin: 10px;
     text-decoration: none;
